@@ -1,0 +1,2 @@
+{"rule":"ONE_PLURAL","sentence":"^\\QOne by one students stood up and replied with “Present mam”\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.\\E$"}
