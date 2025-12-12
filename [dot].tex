@@ -1,0 +1,36 @@
+\documentclass[12pt]{book}
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{lettrine}
+
+% Proper chapter title page formatting
+\titleformat{\chapter}[display]
+  {\bfseries\Huge}
+  {\centering \chaptertitlename\ \thechapter}
+  {2pt}
+  {\thispagestyle{plain}\vspace{1cm}\centering}
+  [\vspace{0.3cm}]
+
+% --------------------
+% Title Page Info
+% --------------------
+\title{\Huge\bfseries \textbf{.} \\[0.5cm]}
+\author{\Large Ashutosh Vishwakarma}
+\date{}
+
+\begin{document}
+
+% Generate title page
+\maketitle
+\thispagestyle{empty}
+\clearpage
+
+% Table of Contents
+\tableofcontents
+\clearpage
+
+% Chapters
+\include{chapters/c1}
+
+\end{document}
