@@ -1,1 +1,7 @@
-\contentsline {chapter}{\numberline {1}.}{5}{}%
+\contentsline {chapter}{\numberline {1}The Entry}{1}{}%
+\contentsline {chapter}{\numberline {2}First Interaction}{9}{}%
+\contentsline {chapter}{\numberline {3}Introspection}{18}{}%
+\contentsline {chapter}{\numberline {4}Outcast}{23}{}%
+\contentsline {chapter}{\numberline {5}Liminal}{29}{}%
+\contentsline {chapter}{\numberline {6}Off Guard}{35}{}%
+\contentsline {chapter}{\numberline {7}}{40}{}%
