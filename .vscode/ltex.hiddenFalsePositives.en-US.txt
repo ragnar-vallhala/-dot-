@@ -1,2 +1,8 @@
 {"rule":"ONE_PLURAL","sentence":"^\\QOne by one students stood up and replied with “Present mam”\\E$"}
 {"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.\\E$"}
+{"rule":"THE_WORSE_OF","sentence":"^\\QI am the topper of the class”\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QNo shouting.\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QAfter all, this was what being monitor looked like.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhe wondered.\\E$"}
+{"rule":"PROFANITY","sentence":"^\\QYou would have got cleaner road with no turns” he continued while making an expression to a young girl, cleaning the chairs in the veranda, “These goat herders have made hell of that lane full of shit all the way through”.\\E$"}
+{"rule":"EVERYDAY_EVERY_DAY","sentence":"^\\QSchool is what Shiva waited everyday to be in.\\E$"}
