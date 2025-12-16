@@ -1,7 +1,7 @@
 \documentclass[12pt,oneside,openright]{book}
 
 % --------------------
-% Page size: 5 x 8 inches (NOVEL)
+% Page size: 6 x 9 inches (standard novel)
 % --------------------
 \usepackage[
   paperwidth=6in,
@@ -12,21 +12,21 @@
   bottom=1in
 ]{geometry}
 
-
+% --------------------
+% Spacing
+% --------------------
 \usepackage{setspace}
 \onehalfspacing
 
+% --------------------
+% Fonts & chapter formatting
+% --------------------
 \usepackage{titlesec}
 \usepackage{lettrine}
-\usepackage{fancyhdr}
-\usepackage{emptypage}
 
-% --------------------
-% Chapter style (NOVEL)
-% --------------------
 \titleformat{\chapter}[display]
   {\normalfont\bfseries\Large\centering}
-  {} % no "Chapter 1"
+  {} % no "Chapter X"
   {0pt}
   {\Large}
   [\vspace{1cm}]
@@ -37,6 +37,9 @@
 % --------------------
 % Headers & footers
 % --------------------
+\usepackage{fancyhdr}
+\usepackage{emptypage}
+
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[C]{\thepage}
@@ -48,25 +51,40 @@
 }
 
 % --------------------
-% Title page
+% Document
 % --------------------
-\title{
-  \vspace*{3cm}
-  {\Huge\bfseries .}\\[1.2cm]
-  {\Large \dots}
-}
-\date{}
-
 \begin{document}
 
 % --------------------
 % Front matter
 % --------------------
 \frontmatter
-\maketitle
+
+% --------------------
+% Custom Title Page
+% --------------------
+\begin{titlepage}
+  \thispagestyle{empty}
+
+  \vspace*{4cm}
+
+  \begin{center}
+    {\fontsize{72}{72}\selectfont\bfseries .}
+
+    \vspace{1.5cm}
+
+    {\large\itshape second row, second seat}
+
+    \vfill
+
+    {\Large Ashutosh Vishwakarma}
+  \end{center}
+
+\end{titlepage}
+
 \cleardoublepage
 
-% Optional (many novels skip TOC)
+% Optional (can be removed for cleaner novels)
 \tableofcontents
 \cleardoublepage
 
