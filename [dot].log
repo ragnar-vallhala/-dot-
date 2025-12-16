@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  16 DEC 2025 10:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  16 DEC 2025 21:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -117,20 +117,20 @@ Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty p
 ) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux))
 \openout1 = `[dot].aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -166,12 +166,13 @@ LaTeX Font Info:    ... okay on input line 60.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 66.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 66.
 
-LaTeX Warning: No \author given.
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <72> not available
+(Font)              size <24.88> substituted on input line 72.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <72> not available
+(Font)              size <24.88> substituted on input line 72.
 
 [1
 
@@ -205,7 +206,7 @@ Chapter 2.
 
 
 ] [10] [11] [12] [13] [14] [15])
-Overfull \hbox (11.10011pt too wide) in paragraph at lines 18--79
+Overfull \hbox (11.10011pt too wide) in paragraph at lines 18--97
 \OT1/cmr/m/n/12 pages, drift-ing in-stead into a tan-gle of thoughts. Sleep wouldn't
  []
 
@@ -264,20 +265,25 @@ Chapter 7.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 47.12pt have occurred.
+
  ) 
 Here is how much of TeX's memory you used:
- 2022 strings out of 476182
- 35928 string characters out of 5795595
+ 2018 strings out of 476182
+ 35834 string characters out of 5795595
  1931975 words of memory out of 5000000
- 24003 multiletter control sequences out of 15000+600000
- 561098 words of font info for 46 fonts, out of 8000000 for 9000
+ 23999 multiletter control sequences out of 15000+600000
+ 560531 words of font info for 44 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,12n,93p,2476b,277s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on [dot].pdf (42 pages, 105598 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on [dot].pdf (42 pages, 118578 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 161 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
