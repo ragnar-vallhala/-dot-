@@ -6,3 +6,5 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhe wondered.\\E$"}
 {"rule":"PROFANITY","sentence":"^\\QYou would have got cleaner road with no turns” he continued while making an expression to a young girl, cleaning the chairs in the veranda, “These goat herders have made hell of that lane full of shit all the way through”.\\E$"}
 {"rule":"EVERYDAY_EVERY_DAY","sentence":"^\\QSchool is what Shiva waited everyday to be in.\\E$"}
+{"rule":"NOUN_AROUND_IT","sentence":"^\\QIn the quiet around them, he could hear her breathing, feel the closeness in a way that made the air seem heavier.\\E$"}
+{"rule":"NON3PRS_VERB","sentence":"^\\Q“Aren't we already friends?”\\E$"}
