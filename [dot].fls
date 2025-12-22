@@ -63,6 +63,9 @@ INPUT chapters/c6.aux
 INPUT ./chapters/c7.aux
 INPUT ./chapters/c7.aux
 INPUT chapters/c7.aux
+INPUT ./chapters/c8.aux
+INPUT ./chapters/c8.aux
+INPUT chapters/c8.aux
 OUTPUT [dot].aux
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -119,6 +122,12 @@ OUTPUT chapters/c7.aux
 INPUT ./chapters/c7.tex
 INPUT ./chapters/c7.tex
 INPUT chapters/c7.tex
+INPUT ./chapters/c8.tex
+INPUT ./chapters/c8.tex
+OUTPUT chapters/c8.aux
+INPUT ./chapters/c8.tex
+INPUT ./chapters/c8.tex
+INPUT chapters/c8.tex
 INPUT [dot].aux
 INPUT ./chapters/c1.aux
 INPUT ./chapters/c1.aux
@@ -141,6 +150,9 @@ INPUT chapters/c6.aux
 INPUT ./chapters/c7.aux
 INPUT ./chapters/c7.aux
 INPUT chapters/c7.aux
+INPUT ./chapters/c8.aux
+INPUT ./chapters/c8.aux
+INPUT chapters/c8.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb

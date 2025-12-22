@@ -5,3 +5,4 @@
 \contentsline {chapter}{\numberline {5}Liminal}{29}{}%
 \contentsline {chapter}{\numberline {6}Off Guard}{35}{}%
 \contentsline {chapter}{\numberline {7}Retort}{40}{}%
+\contentsline {chapter}{\numberline {8}Masks}{44}{}%
