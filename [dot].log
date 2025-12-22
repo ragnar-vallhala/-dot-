@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  16 DEC 2025 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  19 DEC 2025 01:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -114,7 +114,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip60
 ) (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
-) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux))
+) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux))
 \openout1 = `[dot].aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
@@ -255,12 +255,22 @@ Chapter 6.
 
  (./chapters/c7.tex
 Chapter 7.
-) [40
+[40
 
 
 
 
-] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux))
+] [41] [42]) [43]
+\openout2 = `chapters/c8.aux'.
+
+ (./chapters/c8.tex
+Chapter 8.
+) [44
+
+
+
+
+] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -272,18 +282,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2018 strings out of 476182
- 35834 string characters out of 5795595
+ 2043 strings out of 476182
+ 36472 string characters out of 5795595
  1931975 words of memory out of 5000000
- 23999 multiletter control sequences out of 15000+600000
+ 24017 multiletter control sequences out of 15000+600000
  560531 words of font info for 44 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,12n,93p,2476b,277s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on [dot].pdf (42 pages, 118578 bytes).
+Output written on [dot].pdf (46 pages, 124944 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
+ 174 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
