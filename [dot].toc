@@ -6,3 +6,5 @@
 \contentsline {chapter}{\numberline {6}Off Guard}{35}{}%
 \contentsline {chapter}{\numberline {7}Retort}{40}{}%
 \contentsline {chapter}{\numberline {8}Masks}{44}{}%
+\contentsline {chapter}{\numberline {9}Refraction}{50}{}%
+\contentsline {chapter}{\numberline {10}Homecoming}{59}{}%
