@@ -1,118 +1,125 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  24 DEC 2025 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.18)  5 JAN 2026 08:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **/home/ragnar/Documents/Vaishu/[dot]/[dot].tex
 (/home/ragnar/Documents/Vaishu/[dot]/[dot].tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-03-26>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@chapter=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+\c@part=\count197
+\c@chapter=\count198
+\c@section=\count199
+\c@subsection=\count266
+\c@subsubsection=\count267
+\c@paragraph=\count268
+\c@subparagraph=\count269
+\c@figure=\count270
+\c@table=\count271
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks18
-) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box51
-\beforetitleunit=\skip50
-\aftertitleunit=\skip51
-\ttl@plus=\dimen149
-\ttl@minus=\dimen150
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen155
+\ttl@minus=\dimen156
 \ttl@toksa=\toks19
-\titlewidth=\dimen151
-\titlewidthlast=\dimen152
-\titlewidthfirst=\dimen153
-) (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2024-01-20 v2.60 (Daniel Flipo)
- (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfp/xfp.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count199
-\l__pdf_internal_box=\box52
+\titlewidth=\dimen157
+\titlewidthlast=\dimen158
+\titlewidthfirst=\dimen159
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2025-01-30 v2.80 (Daniel Flipo)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xfp/xfp.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-03-26 L3 programming layer (loader) 
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
 ))
-Package: xfp 2023-10-10 L3 Floating point unit
+Package: xfp 2024-08-16 L3 Floating point unit
 )
-\c@DefaultLines=\count266
-\c@DefaultDepth=\count267
-\DefaultFindent=\dimen154
-\DefaultNindent=\dimen155
-\DefaultSlope=\dimen156
-\DiscardVskip=\dimen157
-\L@lettrine=\box53
-\L@lbox=\box54
-\L@tbox=\box55
-\c@L@lines=\count268
-\c@L@depth=\count269
-\L@Pindent=\dimen158
-\L@Findent=\dimen159
-\L@Nindent=\dimen160
-\L@lraise=\dimen161
-\L@first=\dimen162
-\L@next=\dimen163
-\L@slope=\dimen164
-\L@height=\dimen165
-\L@novskip=\dimen166
-\L@ruleht=\dimen167
-\L@target@ht=\dimen168
-\L@target@dp=\dimen169
-\L@target@tht=\dimen170
-\LettrineWidth=\dimen171
-\LettrineHeight=\dimen172
-\LettrineDepth=\dimen173
+\c@DefaultLines=\count276
+\c@DefaultDepth=\count277
+\DefaultFindent=\dimen160
+\DefaultNindent=\dimen161
+\DefaultSlope=\dimen162
+\DiscardVskip=\dimen163
+\L@lettrine=\box54
+\L@lbox=\box55
+\L@tbox=\box56
+\c@L@lines=\count278
+\c@L@depth=\count279
+\L@Pindent=\dimen164
+\L@Findent=\dimen165
+\L@Nindent=\dimen166
+\L@lraise=\dimen167
+\L@first=\dimen168
+\L@next=\dimen169
+\L@slope=\dimen170
+\L@height=\dimen171
+\L@novskip=\dimen172
+\L@target@ht=\dimen173
+\L@target@dp=\dimen174
+\L@target@tht=\dimen175
+\LettrineWidth=\dimen176
+\LettrineHeight=\dimen177
+\LettrineDepth=\dimen178
+\L@finalht=\dimen179
+\L@finaldp=\dimen180
 
 Loading lettrine.cfg
-(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg)
-\Llist@everypar=\toks20
-) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip52
-\f@nch@O@elh=\skip53
-\f@nch@O@erh=\skip54
-\f@nch@O@olh=\skip55
-\f@nch@O@orh=\skip56
-\f@nch@O@elf=\skip57
-\f@nch@O@erf=\skip58
-\f@nch@O@olf=\skip59
-\f@nch@O@orf=\skip60
-) (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+\Lettrine@tweaks=\toks20
+\Llist@everypar=\toks21
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip53
+\f@nch@offset@elh=\skip54
+\f@nch@offset@erh=\skip55
+\f@nch@offset@olh=\skip56
+\f@nch@offset@orh=\skip57
+\f@nch@offset@elf=\skip58
+\f@nch@offset@erf=\skip59
+\f@nch@offset@olf=\skip60
+\f@nch@offset@orf=\skip61
+\f@nch@height=\skip62
+\f@nch@footalignment=\skip63
+\f@nch@widthL=\skip64
+\f@nch@widthC=\skip65
+\f@nch@widthR=\skip66
+\@temptokenb=\toks22
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
 ) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux))
 \openout1 = `[dot].aux'.
@@ -174,15 +181,19 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <72> not available
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <72> not available
 (Font)              size <24.88> substituted on input line 72.
 
+
+
 [1
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./[dot].toc)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./[dot].toc)
 \tf@toc=\write3
 \openout3 = `[dot].toc'.
 
- [1
+
+
+[1
 
 
 ]
@@ -190,110 +201,230 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <72> not available
 
  (./chapters/c1.tex
 Chapter 1.
+
+
 [1
 
 
 
 
-] [2] [3] [4] [5] [6]) [7] [8]
+]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6])
+
+[7]
+
+[8]
 \openout2 = `chapters/c2.aux'.
 
  (./chapters/c2.tex
 Chapter 2.
+
+
 [9
 
 
 
 
-] [10] [11] [12] [13] [14] [15])
+]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15])
 Overfull \hbox (11.10011pt too wide) in paragraph at lines 18--97
 \OT1/cmr/m/n/12 pages, drift-ing in-stead into a tan-gle of thoughts. Sleep wouldn't
  []
 
-[16] [17]
+
+
+[16]
+
+[17]
 \openout2 = `chapters/c3.aux'.
 
  (./chapters/c3.tex
 Chapter 3.
+
+
 [18
 
 
 
 
-] [19] [20]) [21] [22]
+]
+
+[19]
+
+[20])
+
+[21]
+
+[22]
 \openout2 = `chapters/c4.aux'.
 
  (./chapters/c4.tex
 Chapter 4.
+
+
 [23
 
 
 
 
-] [24] [25] [26] [27]) [28]
+]
+
+[24]
+
+[25]
+
+[26]
+
+[27])
+
+[28]
 \openout2 = `chapters/c5.aux'.
 
  (./chapters/c5.tex
 Chapter 5.
+
+
 [29
 
 
 
 
-] [30] [31] [32]) [33] [34]
+]
+
+[30]
+
+[31]
+
+[32])
+
+[33]
+
+[34]
 \openout2 = `chapters/c6.aux'.
 
  (./chapters/c6.tex
 Chapter 6.
+
+
 [35
 
 
 
 
-] [36] [37] [38]) [39]
+]
+
+[36]
+
+[37]
+
+[38])
+
+[39]
 \openout2 = `chapters/c7.aux'.
 
  (./chapters/c7.tex
 Chapter 7.
+
+
 [40
 
 
 
 
-] [41] [42]) [43]
+]
+
+[41]
+
+[42])
+
+[43]
 \openout2 = `chapters/c8.aux'.
 
  (./chapters/c8.tex
 Chapter 8.
+
+
 [44
 
 
 
 
-] [45] [46] [47] [48]) [49]
+]
+
+[45]
+
+[46]
+
+[47]
+
+[48])
+
+[49]
 \openout2 = `chapters/c9.aux'.
 
  (./chapters/c9.tex
 Chapter 9.
+
+
 [50
 
 
 
 
-] [51] [52] [53] [54] [55] [56] [57]) [58]
+]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57])
+
+[58]
 \openout2 = `chapters/c10.aux'.
 
  (./chapters/c10.tex
 Chapter 10.
-) [59
+)
+
+[59
 
 
 
 
-] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux))
+]
+
+[60] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux))
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-03-26>
  ***********
 
 
@@ -302,18 +433,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2093 strings out of 476182
- 37773 string characters out of 5795595
- 1931975 words of memory out of 5000000
- 24053 multiletter control sequences out of 15000+600000
- 560531 words of font info for 44 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 79i,12n,93p,2476b,277s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on [dot].pdf (61 pages, 148104 bytes).
+ 2279 strings out of 469626
+ 42124 string characters out of 5471010
+ 432118 words of memory out of 5000000
+ 29054 multiletter control sequences out of 15000+600000
+ 629287 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,12n,77p,2476b,351s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on [dot].pdf (62 pages, 149206 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 225 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
