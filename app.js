@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const tocList = document.getElementById('toc-list');
     const sidebar = document.getElementById('sidebar');
     const menuToggle = document.getElementById('menu-toggle');
+    const hamburgerIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>`;
+    const closeIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>`;
 
     // Buttons
     const startBtn = document.getElementById('start-reading');
@@ -37,6 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 currentChapterIndex = index;
                 showChapter(index);
                 sidebar.classList.remove('open');
+                menuToggle.innerHTML = hamburgerIcon;
             };
             tocList.appendChild(li);
         });
@@ -95,12 +98,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     menuToggle.addEventListener('click', () => {
         sidebar.classList.toggle('open');
+        menuToggle.innerHTML = sidebar.classList.contains('open') ? closeIcon : hamburgerIcon;
     });
 
     // Close sidebar when clicking outside
     document.addEventListener('click', (e) => {
         if (!sidebar.contains(e.target) && !menuToggle.contains(e.target)) {
             sidebar.classList.remove('open');
+            menuToggle.innerHTML = hamburgerIcon;
         }
     });
 });
