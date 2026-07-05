@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  5 JUL 2026 05:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  6 JUL 2026 04:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -120,7 +120,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip60
 ) (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
-) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux))
+) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux) (./chapters/c12.aux))
 \openout1 = `[dot].aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -316,7 +316,27 @@ Overfull \hbox (10.54285pt too wide) in paragraph at lines 39--40
 []\T1/cmr/m/n/12 ``Well, con-grat-u-la-tions^^Vyou got the high-est marks in Maths
  []
 
-[70]) [71] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux))
+[70]) [71]
+\openout2 = `chapters/c12.aux'.
+
+ (./chapters/c12.tex
+Chapter 12.
+[72
+
+
+
+
+] [73] [74] [75] [76])
+Overfull \hbox (12.33084pt too wide) in paragraph at lines 120--110
+[]\T1/cmr/m/n/12 Roshini burst out laugh-ing. ``Too bad you're not Rahul^^Vthe
+ []
+
+
+Overfull \hbox (3.91214pt too wide) in paragraph at lines 120--110
+\T1/cmr/m/n/12 one Shahrukh plays. That en-trance only works in the movies.'' 
+ []
+
+[77] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux) (./chapters/c12.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -328,18 +348,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2374 strings out of 476182
- 40990 string characters out of 5795595
+ 2399 strings out of 476182
+ 41653 string characters out of 5795595
  1931975 words of memory out of 5000000
- 24315 multiletter control sequences out of 15000+600000
+ 24333 multiletter control sequences out of 15000+600000
  564452 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,12n,93p,2447b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on [dot].pdf (74 pages, 199691 bytes).
+Output written on [dot].pdf (80 pages, 208490 bytes).
 PDF statistics:
- 275 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
+ 294 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
