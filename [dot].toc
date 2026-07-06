@@ -1,5 +1,5 @@
-\contentsline {chapter}{\numberline {1}The Entry}{1}{}%
-\contentsline {chapter}{\numberline {2}First Interaction}{9}{}%
+\contentsline {chapter}{\numberline {1}Entry}{1}{}%
+\contentsline {chapter}{\numberline {2}Interaction}{9}{}%
 \contentsline {chapter}{\numberline {3}Introspection}{18}{}%
 \contentsline {chapter}{\numberline {4}Outcast}{22}{}%
 \contentsline {chapter}{\numberline {5}Liminal}{28}{}%
@@ -10,3 +10,4 @@
 \contentsline {chapter}{\numberline {10}Homecoming}{59}{}%
 \contentsline {chapter}{\numberline {11}Lane}{67}{}%
 \contentsline {chapter}{\numberline {12}Parallels}{72}{}%
+\contentsline {chapter}{\numberline {13}Search}{78}{}%
