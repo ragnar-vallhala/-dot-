@@ -67,7 +67,7 @@ def extract_book_data(base_path):
     return book_data
 
 if __name__ == "__main__":
-    base_dir = "/home/ragnar/Documents/Vaishu/[dot]"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     output_file = os.path.join(base_dir, "book_data.json")
     
     data = extract_book_data(base_dir)
