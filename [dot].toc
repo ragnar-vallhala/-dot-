@@ -1,13 +1,14 @@
 \contentsline {chapter}{\numberline {1}Entry}{1}{}%
-\contentsline {chapter}{\numberline {2}Interaction}{9}{}%
-\contentsline {chapter}{\numberline {3}Introspection}{18}{}%
-\contentsline {chapter}{\numberline {4}Outcast}{22}{}%
-\contentsline {chapter}{\numberline {5}Liminal}{28}{}%
-\contentsline {chapter}{\numberline {6}Off Guard}{34}{}%
-\contentsline {chapter}{\numberline {7}Retort}{39}{}%
-\contentsline {chapter}{\numberline {8}Masks}{43}{}%
-\contentsline {chapter}{\numberline {9}Refraction}{49}{}%
-\contentsline {chapter}{\numberline {10}Homecoming}{59}{}%
+\contentsline {chapter}{\numberline {2}Interaction}{10}{}%
+\contentsline {chapter}{\numberline {3}Introspection}{19}{}%
+\contentsline {chapter}{\numberline {4}Outcast}{23}{}%
+\contentsline {chapter}{\numberline {5}Liminal}{29}{}%
+\contentsline {chapter}{\numberline {6}Off Guard}{35}{}%
+\contentsline {chapter}{\numberline {7}Retort}{40}{}%
+\contentsline {chapter}{\numberline {8}Masks}{44}{}%
+\contentsline {chapter}{\numberline {9}Refraction}{50}{}%
+\contentsline {chapter}{\numberline {10}Homecoming}{60}{}%
 \contentsline {chapter}{\numberline {11}Lane}{67}{}%
 \contentsline {chapter}{\numberline {12}Parallels}{72}{}%
 \contentsline {chapter}{\numberline {13}Search}{78}{}%
+\contentsline {chapter}{\numberline {14}Convergence}{85}{}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.18)  6 JUL 2026 08:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.18)  7 JUL 2026 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -145,7 +145,8 @@ pages
 (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux)
 (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux)
 (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux)
-(./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux))
+(./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux)
+(./chapters/c14.aux))
 \openout1 = `[dot].aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -241,30 +242,42 @@ Chapter 1.
 [2]
 
 [3]
+Overfull \hbox (9.17665pt too wide) in paragraph at lines 38--39
+\T1/cmr/m/n/12 read some-thing, the city-girl con-fi-dence in the way she strai
+ght-
+ []
+
+
 
 [4]
 
 [5]
 
-[6])
+[6]
+Overfull \hbox (23.4689pt too wide) in paragraph at lines 84--85
+[]\T1/cmr/m/n/12 With that un-beat-able logic, the boys ex-changed glances^^Vth
+en
+ []
 
-[7]
+
+
+[7])
 
 [8]
+
+[9]
 \openout2 = `chapters/c2.aux'.
 
  (./chapters/c2.tex
 Chapter 2.
 
 
-[9
+[10
 
 
 
 
 ]
-
-[10]
 
 [11]
 
@@ -274,7 +287,9 @@ Chapter 2.
 
 [14]
 
-[15])
+[15]
+
+[16])
 Overfull \hbox (11.02571pt too wide) in paragraph at lines 18--100
 \T1/cmr/m/n/12 pages, drift-ing in-stead into a tan-gle of thoughts. Sleep woul
 dn't
@@ -282,145 +297,143 @@ dn't
 
 
 
-[16]
-
 [17]
+
+[18]
 \openout2 = `chapters/c3.aux'.
 
  (./chapters/c3.tex
 Chapter 3.
 
 
-[18
+[19
 
 
 
 
 ]
 
-[19]
+[20]
 
-[20])
+[21])
 
-[21]
+[22]
 \openout2 = `chapters/c4.aux'.
 
  (./chapters/c4.tex
 Chapter 4.
 
 
-[22
+[23
 
 
 
 
 ]
 
-[23]
-
 [24]
 
 [25]
 
-[26])
+[26]
 
-[27]
+[27])
+
+[28]
 \openout2 = `chapters/c5.aux'.
 
  (./chapters/c5.tex
 Chapter 5.
 
 
-[28
+[29
 
 
 
 
 ]
 
-[29]
-
 [30]
 
-[31])
+[31]
 
-[32]
+[32])
 
 [33]
+
+[34]
 \openout2 = `chapters/c6.aux'.
 
  (./chapters/c6.tex
 Chapter 6.
 
 
-[34
+[35
 
 
 
 
 ]
 
-[35]
-
 [36]
 
-[37])
+[37]
 
-[38]
+[38])
+
+[39]
 \openout2 = `chapters/c7.aux'.
 
  (./chapters/c7.tex
 Chapter 7.
 
 
-[39
+[40
 
 
 
 
 ]
 
-[40]
+[41]
 
-[41])
+[42])
 
-[42]
+[43]
 \openout2 = `chapters/c8.aux'.
 
  (./chapters/c8.tex
 Chapter 8.
 
 
-[43
+[44
 
 
 
 
 ]
 
-[44]
-
 [45]
 
 [46]
 
-[47])
+[47]
 
-[48]
+[48])
+
+[49]
 \openout2 = `chapters/c9.aux'.
 
  (./chapters/c9.tex
 Chapter 9.
 
 
-[49
+[50
 
 
 
 
 ]
-
-[50]
 
 [51]
 
@@ -434,38 +447,39 @@ Chapter 9.
 
 [56]
 
-[57])
+[57]
 
-[58]
+[58])
+
+[59]
 \openout2 = `chapters/c10.aux'.
 
  (./chapters/c10.tex
 Chapter 10.
 
 
-[59
+[60
 
 
 
 
 ]
 
-[60]
-
 [61]
-Overfull \hbox (0.63147pt too wide) in paragraph at lines 28--29
-[]\T1/cmr/m/n/12 The high-way, how-ever, held shad-ows that the vil-lage lanes
- []
-
-
 
 [62]
 
 [63]
+Overfull \hbox (29.49055pt too wide) in paragraph at lines 38--39
+\T1/cmr/m/n/12 watching. When the bell fi-nally rang, the Tridev split apart^^V
+Shiva
+ []
 
-[64])
 
-[65]
+
+[64]
+
+[65])
 
 [66]
 \openout2 = `chapters/c11.aux'.
@@ -560,10 +574,23 @@ Overfull \hbox (1.18002pt too wide) in paragraph at lines 99--100
 
 [83])
 
-[84] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux)
+[84]
+\openout2 = `chapters/c14.aux'.
+
+ (./chapters/c14.tex
+Chapter 14.
+)
+
+[85
+
+
+
+
+] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux)
 (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux)
 (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux)
-(./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux))
+(./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux)
+(./chapters/c14.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -575,23 +602,23 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2610 strings out of 469626
- 46585 string characters out of 5471010
+ 2635 strings out of 469626
+ 47248 string characters out of 5471010
  432118 words of memory out of 5000000
- 29353 multiletter control sequences out of 15000+600000
+ 29371 multiletter control sequences out of 15000+600000
  633208 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,12n,77p,2411b,401s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,12n,77p,2388b,401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on [dot].pdf (87 pages, 218515 bytes).
+Output written on [dot].pdf (88 pages, 218689 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
+ 320 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
