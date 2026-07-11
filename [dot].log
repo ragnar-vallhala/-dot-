@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  10 JUL 2026 08:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.18)  11 JUL 2026 06:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
 \c@chapter=\count188
@@ -120,7 +120,12 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip60
 ) (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
-) (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux) (./chapters/c14.aux) (./chapters/c15.aux) (./chapters/c16.aux))
+)
+
+LaTeX Warning: Unused global option(s):
+    [9pt].
+
+(./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux) (./chapters/c14.aux) (./chapters/c15.aux) (./chapters/c16.aux) (./chapters/c17.aux))
 \openout1 = `[dot].aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -154,15 +159,15 @@ LaTeX Font Info:    ... okay on input line 59.
 * \textheight=505.89001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
-* \topmargin=-31.8738pt
+* \topmargin=-30.06749pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=47.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -201,212 +206,197 @@ Chapter 1.
 
 
 
-] [2] [3]
-Overfull \hbox (9.17665pt too wide) in paragraph at lines 38--39
-\T1/cmr/m/n/12 read some-thing, the city-girl con-fi-dence in the way she straight-
+]
+Overfull \hbox (7.60338pt too wide) in paragraph at lines 20--21
+[]\T1/cmr/m/n/10 ``It car-ries fighter jets,'' Vi-jay said dra-mat-i-cally. ``Just imag-ine^^Vplanes
  []
 
-[4] [5] [6]
-Overfull \hbox (23.4689pt too wide) in paragraph at lines 84--85
-[]\T1/cmr/m/n/12 With that un-beat-able logic, the boys ex-changed glances^^Vthen
- []
-
-[7]) [8] [9]
+[2] [3] [4] [5]) [6]
 \openout2 = `chapters/c2.aux'.
 
  (./chapters/c2.tex
 Chapter 2.
-[10
+[7
 
 
 
 
-] [11] [12] [13] [14] [15] [16])
-Overfull \hbox (11.02571pt too wide) in paragraph at lines 18--100
-\T1/cmr/m/n/12 pages, drift-ing in-stead into a tan-gle of thoughts. Sleep wouldn't
- []
-
-[17] [18]
+] [8] [9] [10] [11]) [12]
 \openout2 = `chapters/c3.aux'.
 
  (./chapters/c3.tex
 Chapter 3.
-[19
+[13
 
 
 
 
-] [20] [21]) [22]
+] [14]) [15]
 \openout2 = `chapters/c4.aux'.
 
  (./chapters/c4.tex
 Chapter 4.
-[23
+[16
 
 
 
 
-] [24] [25] [26] [27]) [28]
+] [17] [18]) [19] [20]
 \openout2 = `chapters/c5.aux'.
 
  (./chapters/c5.tex
 Chapter 5.
+[21
+
+
+
+
+] [22] [23]) [24]
+\openout2 = `chapters/c6.aux'.
+
+ (./chapters/c6.tex
+Chapter 6.
+[25
+
+
+
+
+] [26] [27]) [28]
+\openout2 = `chapters/c7.aux'.
+
+ (./chapters/c7.tex
+Chapter 7.
 [29
 
 
 
 
-] [30] [31] [32]) [33] [34]
-\openout2 = `chapters/c6.aux'.
-
- (./chapters/c6.tex
-Chapter 6.
-[35
-
-
-
-
-] [36] [37] [38]) [39]
-\openout2 = `chapters/c7.aux'.
-
- (./chapters/c7.tex
-Chapter 7.
-[40
-
-
-
-
-] [41] [42]) [43]
+] [30]) [31]
 \openout2 = `chapters/c8.aux'.
 
  (./chapters/c8.tex
 Chapter 8.
-[44
+[32
 
 
 
 
-] [45] [46] [47] [48]) [49]
+] [33] [34]) [35] [36]
 \openout2 = `chapters/c9.aux'.
 
  (./chapters/c9.tex
 Chapter 9.
-[50
-
-
-
-
-] [51] [52] [53] [54] [55] [56] [57] [58]) [59]
-\openout2 = `chapters/c10.aux'.
-
- (./chapters/c10.tex
-Chapter 10.
-[60
-
-
-
-
-] [61] [62] [63]
-Overfull \hbox (29.49055pt too wide) in paragraph at lines 38--39
-\T1/cmr/m/n/12 watching. When the bell fi-nally rang, the Tridev split apart^^VShiva
- []
-
-[64] [65]) [66]
-\openout2 = `chapters/c11.aux'.
-
- (./chapters/c11.tex
-Chapter 11.
-[67
-
-
-
-
-] [68] [69]
-Overfull \hbox (10.54285pt too wide) in paragraph at lines 39--40
-[]\T1/cmr/m/n/12 ``Well, con-grat-u-la-tions^^Vyou got the high-est marks in Maths
- []
-
-[70]) [71]
-\openout2 = `chapters/c12.aux'.
-
- (./chapters/c12.tex
-Chapter 12.
-[72
-
-
-
-
-] [73] [74] [75] [76])
-Overfull \hbox (12.33084pt too wide) in paragraph at lines 120--110
-[]\T1/cmr/m/n/12 Roshini burst out laugh-ing. ``Too bad you're not Rahul^^Vthe
- []
-
-
-Overfull \hbox (3.91214pt too wide) in paragraph at lines 120--110
-\T1/cmr/m/n/12 one Shahrukh plays. That en-trance only works in the movies.'' 
- []
-
-[77]
-\openout2 = `chapters/c13.aux'.
-
- (./chapters/c13.tex
-Chapter 13.
-[78
+[37
 
 
 
 
 ]
-Overfull \hbox (11.66074pt too wide) in paragraph at lines 29--30
-[]\T1/cmr/m/n/12 Shiva hur-ried to the nearby shop, bought a recharge coupon,
+Overfull \hbox (14.69423pt too wide) in paragraph at lines 20--21
+[]\T1/cmr/m/n/10 When they ar-rived, Shiva was met with the same fa-mil-iar sight^^Vnarrow
  []
 
-[79] [80] [81]
-Overfull \hbox (1.18002pt too wide) in paragraph at lines 99--100
-[]\T1/cmr/m/n/12 ``Babu, I've left the tea on the ta-ble with some snacks^^Veat
+[38] [39]
+Overfull \hbox (3.80434pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10 what kind of god waited in-side^^Vone who could be reached faster through
  []
 
-[82] [83]) [84]
+[40] [41] [42]) [43]
+\openout2 = `chapters/c10.aux'.
+
+ (./chapters/c10.tex
+Chapter 10.
+[44
+
+
+
+
+] [45] [46] [47]) [48]
+\openout2 = `chapters/c11.aux'.
+
+ (./chapters/c11.tex
+Chapter 11.
+[49
+
+
+
+
+] [50])
+Overfull \hbox (11.69496pt too wide) in paragraph at lines 57--109
+[]\T1/cmr/m/n/10 He headed back to the match, glanc-ing once at the sec-ond floor^^Vempty
+ []
+
+[51] [52]
+\openout2 = `chapters/c12.aux'.
+
+ (./chapters/c12.tex
+Chapter 12.
+[53
+
+
+
+
+] [54] [55] [56]) [57]
+\openout2 = `chapters/c13.aux'.
+
+ (./chapters/c13.tex
+Chapter 13.
+[58
+
+
+
+
+] [59] [60] [61] [62]) [63]
 \openout2 = `chapters/c14.aux'.
 
  (./chapters/c14.tex
 Chapter 14.
-[85
+[64
 
 
 
 
-] [86]
-Overfull \hbox (0.48145pt too wide) in paragraph at lines 21--22
-[]\T1/cmr/m/n/12 Shiva and Roshini broke into laugh-ter, and it pulled Gauri
- []
-
-[87]
-Overfull \hbox (6.50502pt too wide) in paragraph at lines 27--28
-[]\T1/cmr/m/n/12 One such win-ter evening, Shiva re-turned home from school.
- []
-
-[88]) [89] [90]
+] [65] [66]) [67]
 \openout2 = `chapters/c15.aux'.
 
  (./chapters/c15.tex
 Chapter 15.
-[91
+[68
 
 
 
 
-] [92] [93] [94] [95] [96]) [97]
+] [69] [70] [71]) [72]
 \openout2 = `chapters/c16.aux'.
 
  (./chapters/c16.tex
 Chapter 16.
-[98
+[73
 
 
 
 
-] [99]) [100] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux) (./chapters/c14.aux) (./chapters/c15.aux) (./chapters/c16.aux))
+]) [74]
+\openout2 = `chapters/c17.aux'.
+
+ (./chapters/c17.tex
+Chapter 17.
+[75
+
+
+
+
+] [76] [77]
+Overfull \hbox (3.90984pt too wide) in paragraph at lines 77--78
+[]\T1/cmr/m/n/10 ``What the hell? What rub-bish comes into your mind,'' Shiva laughed,
+ []
+
+
+Overfull \hbox (14.57948pt too wide) in paragraph at lines 87--88
+\T1/cmr/m/n/10 marigold in her hand, her fu-ri-ous face hid-ing the laugh-ter be-neath^^Vmaking
+ []
+
+[78] [79]) [80] (./[dot].aux (./chapters/c1.aux) (./chapters/c2.aux) (./chapters/c3.aux) (./chapters/c4.aux) (./chapters/c5.aux) (./chapters/c6.aux) (./chapters/c7.aux) (./chapters/c8.aux) (./chapters/c9.aux) (./chapters/c10.aux) (./chapters/c11.aux) (./chapters/c12.aux) (./chapters/c13.aux) (./chapters/c14.aux) (./chapters/c15.aux) (./chapters/c16.aux) (./chapters/c17.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -418,18 +408,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2499 strings out of 476182
- 44305 string characters out of 5795595
+ 2524 strings out of 476182
+ 44954 string characters out of 5795595
  1931975 words of memory out of 5000000
- 24405 multiletter control sequences out of 15000+600000
- 564452 words of font info for 45 fonts, out of 8000000 for 9000
+ 24424 multiletter control sequences out of 15000+600000
+ 564144 words of font info for 44 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,12n,93p,2424b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on [dot].pdf (103 pages, 241812 bytes).
+</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on [dot].pdf (83 pages, 241052 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 248 compressed objects within 3 object streams
+ 304 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
